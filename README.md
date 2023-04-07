@@ -105,10 +105,10 @@ Then run this `python3 ecr.py`
 ## Step 5 - Creating an EKS cluster and deploying the app using Python**
 
 
-- Create an EKS cluster and add node group in aws console
+- Create an EKS cluster `cloud-native-cluster` and add node group in aws console
 
 
-- Create a node group in the EKS cluster.
+- Create a node group `nodes` in the EKS cluster.
 
 - Create deployment and service in a folder `eks.py`
 
