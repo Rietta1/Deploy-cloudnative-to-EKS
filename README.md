@@ -102,7 +102,7 @@ Then run this `python3 ecr.py`
  $ docker push <ecr_repo_uri>:<tag>
 ```
 
-## Step 5 - Creating an EKS cluster and deploying the app using Python**
+### Step 5 - Creating an EKS cluster and deploying the app using Python**
 
 
 - Create an EKS cluster `cloud-native-cluster` and add node group in aws console
